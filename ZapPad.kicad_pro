@@ -466,12 +466,12 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../PCB.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "../PCB.wrl"
     },
     "page_layout_descr_file": ""
   },
